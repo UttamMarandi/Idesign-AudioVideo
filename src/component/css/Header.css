@@ -1,0 +1,8 @@
+.div_header {
+  padding: 16px;
+}
+.header_liner {
+  height: 12px;
+  width: 100%;
+  background: linear-gradient(90deg, #4bfbff 0%, #79bec1 49.48%, #567c7e 100%);
+}

@@ -1,0 +1,15 @@
+.inner_body {
+  display: grid;
+  grid-template-columns: 4fr 8fr;
+}
+.left_div {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100vh;
+}
+
+.right_div {
+  background-color: #d8deea;
+  width: 100%;
+  height: 100vh;
+}
