@@ -11,7 +11,12 @@ const ProfileEdit = () => {
         <div className="inner_body">
           <div className="left_div">Hello</div>
           <div className="right_div">
-            <HeaderBold startText="Hello" />
+            <HeaderBold
+              startText="How Much"
+              middleText="experience"
+              endText="do you have?"
+              boldText="middleText"
+            />
           </div>
         </div>
       </div>
